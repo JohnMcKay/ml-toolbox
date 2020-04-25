@@ -1,6 +1,8 @@
 # Machine Learning Toolkit for Projects
 Authored by John McKay, JMcKayPitt@gmail.com
 
+Contributors include John McKay and Chris Hazel (email tbd).
+
 Created on 04/25/2020
 
 ## Description
